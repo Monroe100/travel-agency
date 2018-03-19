@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <link href="styles.css" rel="stylesheet" type="text/css"
+  <title>WELCOME</title>
+ </head>
+ <body>
+ <h1 class="tropical">Travel Agency</h1>
+ <h1 class="tropical">Looking to Travel?</h1>
+ <p class="tropical">If you're looking to travel this is the website for you,explore the world, travel over seas and get the chance to know and understand
+different cultures. We'll be with you every step of the way.</p>
+<p class="tropical">We can take you to exotic places around the world such as; Netherlands,South Africa,Dubai,Japan and London</p>
+<p class="tropical">BOOK NOW! To our popular destination from now</p>
+ <h1 class="tropical">Checkout our famous destination</h1>
+ <p class="tropical"><a href="https://www.tripadvisor.co.uk/LocationPhotoDirectLink-g297549-d1092538-i289971150-Hawaii_Le_Jardin_Aqua_Park_Resort-Hurghada_Red_Sea_and_Sinai.html/">Hawaii<a/>
+ <p  class="tropical"><a href="https://mauritiusattractions.com/where-is-mauritius-i-293.html">Mauritius<a/>
+ <p  class="tropical"><a href="https://www.visitdubai.com/en-ke/">Dubai<a/>
+ <p  class="tropical"><a href="https://www.groupon.com/deals/ga-bk-four-points-by-sheraton-niagara-falls-fallsview-31">Niagara Falls<a/>
